@@ -1,0 +1,14 @@
+D:\Projects\Programming\VisualBasic\DotNetCore\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\Projects\Programming\VisualBasic\DotNetCore\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\Projects\Programming\VisualBasic\DotNetCore\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\Projects\Programming\VisualBasic\DotNetCore\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\Projects\Programming\VisualBasic\DotNetCore\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\Projects\Programming\VisualBasic\DotNetCore\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\VisualBasic\DotNetCore\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Projects\Programming\VisualBasic\DotNetCore\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.vb
+D:\Projects\Programming\VisualBasic\DotNetCore\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.vbproj.CoreCompileInputs.cache
+D:\Projects\Programming\VisualBasic\DotNetCore\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\Projects\Programming\VisualBasic\DotNetCore\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\Projects\Programming\VisualBasic\DotNetCore\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\Projects\Programming\VisualBasic\DotNetCore\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\Projects\Programming\VisualBasic\DotNetCore\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
